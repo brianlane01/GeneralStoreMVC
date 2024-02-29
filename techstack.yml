@@ -2,7 +2,7 @@ repo_name: brianlane01/GeneralStoreMVC
 report_id: bd3059e6a60044a8142816202caef54d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T17:19:06+00:00'
+timestamp: '2024-02-29T19:35:23+00:00'
 requested_by: brianlane01
 provider: github
 branch: main
@@ -99,7 +99,7 @@ tools:
   last_updated_by: brianlane01
   last_updated_on: 2023-11-01 20:51:14.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   license: MIT
   open_source: true
